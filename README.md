@@ -1,6 +1,8 @@
 # PreDiViD-UMLS-SEMANTIC-NETWORK-KG
 Code for manipulating UMLS's metathesaurus and semantic network to create a Knowledge Graph that can be further explored for medical applications.
 
+The code will generate csv tables, that can be used to load the Knowledge Graph in any plataform, like Neo4j for instance.
+
 ## What is UMLS? And why a graph?
 
 The Unified Medical Language System (UMLS) is a set of ontologies and associated resource files, lexicons, etc. that together provide a comprehensive set of structured concepts, codes, and text descriptors for the biomedical domain. UMLS is widely used in biomedical informatics research and in a variety of clinical software products, but the raw UMLS files are a bit unwieldy. If you want to do more than simply load UMLS into a database and search for a given concept, code, etc. its structure can be difficult to understand and manipulate.
