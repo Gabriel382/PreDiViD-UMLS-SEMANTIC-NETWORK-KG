@@ -22,7 +22,7 @@ extra csv tables for the semantic network and its relations.
 
 ## Some Final Notes
 
-This is just some utility code that I've found useful - it is not production-grade and there are bound to be errors. Please let me know if you find any. My plan is to refine it in the coming months. If you're part of the biomedical research community and have any advice or want to contribute, I'd love to hear from you. I can be reached at bethany.percha@mssm.edu.
+This is just some utility code that I've found useful - it is not production-grade and there are bound to be errors. Please let me know if you find any. My plan is to refine it in the coming months. If you're part of the biomedical research community and have any advice or want to contribute, I'd love to hear from you.
 
 Please note that this code is released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html). 
 
